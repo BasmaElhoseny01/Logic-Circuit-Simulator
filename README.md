@@ -26,4 +26,4 @@ Simulation mode:
 Run the circuit designed above to see the output on the LEDs.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
-The main loop of the program is in main.c
+The main loop of the program is in main.cpp
